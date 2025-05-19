@@ -1,0 +1,124 @@
+.slick-slider:not(.inner-slide) .slick-slide > div {
+  margin-right: 28px !important;
+}
+.slick-slider.slider-thumb .slick-slide > div {
+  margin: 0 0 !important;
+}
+.car-block-three {
+  margin: 0 0 !important;
+}
+.car-block-three {
+  margin: 0 0 !important;
+}
+.mm-menu_opened {
+  opacity: 1 !important;
+  visibility: visible !important;
+  left: 0px !important;
+}
+.mm-menu_opened .overlay {
+  content: "";
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+.car-image {
+  display: block !important;
+}
+.d-block {
+  display: block !important;
+}
+.menuActive {
+  color: var(--theme-color1) !important;
+}
+.rc-slider {
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 100%;
+  box-sizing: border-box;
+  width: fit-content;
+  margin-left: 0 !important;
+}
+.rc-slider .rc-slider-handle {
+  border: solid 2px #000;
+  opacity: 1 !important;
+  background-color: #fff !important;
+  width: 30px;
+  height: 30px;
+  margin-top: -14px;
+}
+.rc-slider .rc-slider-handle:hover {
+  border-color: #000;
+}
+.rc-slider .rc-slider-handle-dragging {
+  border-color: #000 !important;
+  box-shadow: none !important;
+}
+.rc-slider .rc-slider-track,
+.rc-slider .rc-slider-tracks {
+  background-color: #000;
+}
+.hero-2 .slick-slide > div {
+  height: 100% !important;
+}
+.scroll-to-top:hover {
+  color: #fff;
+  background-color: var(--theme-color1);
+}
+@media (max-width: 1550px) {
+  .prima-banner-section-nine,
+  .prima-banner-section-v8 {
+    min-height: calc(100vw * 0.55);
+  }
+}
+.nav-link {
+  cursor: pointer;
+}
+.car-image-home-9 {
+  display: flex;
+  justify-content: center;
+}
+@media (min-width: 1535px) {
+  .prima-banner-section-four
+    .banner-slider-v4
+    .banner-slide
+    .right-box
+    .list-box {
+    bottom: -310px;
+    margin-bottom: -30px;
+  }
+  .prima-banner-section-four .banner-slider-v4 .banner-slide {
+    overflow: hidden;
+  }
+}
+.drop-menu .dropdown {
+  top: 100%;
+}
+.wrapper-invoice a:focus {
+  color: #fff !important;
+}
+.add-input-image .uploaded-img {
+  height: 150px;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .add-input-image .uploaded-img {
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+  }
+}
+.current-dropdown span {
+  cursor: pointer;
+}
+.page-item.active .page-link {
+  color: #fff !important;
+}
+.page-item.active .page-link:hover {
+  background-color: #0d6efd !important;
+}
